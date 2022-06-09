@@ -1,0 +1,7 @@
+UCF-101/
+dataset/
+dataset-new/
+crop-dataset/
+*.png
+model/
+model_*/
